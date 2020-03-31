@@ -5,7 +5,10 @@
         public function Inicio()
         {
             $smarty =new Smarty();
-            $smarty->caching=true;
+            //$smarty->caching=true;
+           
+		    //$smarty->assign('usuario','carlos');
+			//$smarty->assign('tipo','trabajador');
             $smarty->display('Master.tpl');
         }
     }
