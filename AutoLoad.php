@@ -10,9 +10,9 @@
         {
             require_once('Modelo/Class.'.$controller.'.php');
         }
-        else if(is_file('Librerias/Lib.'.$controller.'.php'))
+        else if(is_file('Librerias/'.$controller.'.lib.php'))
         {
-            require_once ('Librerias/Lib.'.$controller.'.php');
+            require_once ('Librerias/'.$controller.'.lib.php');
 
         }
         else if($controller=="Smarty")

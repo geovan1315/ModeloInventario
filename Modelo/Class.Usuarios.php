@@ -10,5 +10,7 @@
 			$usuario->close();
 			return $consulta;
 		}
+
+
 	}
 ?>
