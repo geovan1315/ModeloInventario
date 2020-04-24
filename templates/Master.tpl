@@ -30,7 +30,7 @@
 					{else if $vista == ""}
 
 					{else}
-						<img class="materialboxed " width="100%" src="Recursos/Img/LogoUmg3.jpg">
+						<img class="materialboxed " width="100%" src="Recursos/Img/LogoUmg3.jpg" >
 					{/if}
 
 			</div>
