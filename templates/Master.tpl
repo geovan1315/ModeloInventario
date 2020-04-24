@@ -1,5 +1,10 @@
 {include file='Cabeceras/Header.tpl' titulo='Home'}
 	{if isset($e)}
+		{if isset($men)}
+			<div align="center">
+				<h6>{$men}</h6>
+			</div>
+		{/if}
 		<div class="row">
 			<div class="col s4">
 			

@@ -7,7 +7,7 @@
             $server="localhost";
             $pass="";
             $user="root";
-            $base="umg";
+            $base="usuarios";
             
             //parent::__construct('mysql.hostinger.com',$user,'geo4160150087',$base);
             parent::__construct($server,$user,$pass,$base);

@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\cache",
-    "\\Modelo",
-    "\\Recursos\\Img",
-    "\\templates\\Cabeceras"
+    "\\templates"
   ],
-  "SelectedNode": "\\Modelo\\Class.Usuarios.php",
+  "SelectedNode": "\\templates\\Master.tpl",
   "PreviewInSolutionExplorer": false
 }
